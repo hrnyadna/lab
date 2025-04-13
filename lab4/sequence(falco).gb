@@ -1,0 +1,305 @@
+LOCUS       MN168306                 780 bp    DNA     linear   VRT 31-JUL-2020
+DEFINITION  Falco peregrinus aquaporin 14 (Aqp14) gene, complete cds.
+ACCESSION   MN168306
+VERSION     MN168306.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 780)
+  AUTHORS   Chauvigne,F., Yilmaz,O., Ferre,A., Fjelldal,P.G., Finn,R.N. and
+            Cerda,J.
+  TITLE     The genomic landscape and function of the fourtheenth subfamily of
+            vertebrate water channels (Aqp14)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 780)
+  AUTHORS   Chauvigne,F., Yilmaz,O., Ferre,A., Fjelldal,P.G., Finn,R.N. and
+            Cerda,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2019) Department of Biological Sciences,
+            University of Bergen, Bergen High Technology Centre, Bergen, NO
+            5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..780
+                     /organism="Falco peregrinus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8954"
+     gene            <1..>780
+                     /gene="Aqp14"
+     mRNA            <1..>780
+                     /gene="Aqp14"
+                     /product="aquaporin 14"
+     CDS             1..780
+                     /gene="Aqp14"
+                     /codon_start=1
+                     /product="aquaporin 14"
+                     /protein_id="QKE22991.1"
+                     /translation="MAIREELRSWCFWQGVLVEAVATLIFVGVVLGASVDPRPLAPAL
+                     AGGLVAGALVCTLRAPQANPALTLALLCTRKLSALRGAAGLLAQCTGAVLASAIARLA
+                     LPDDTSLVTRVSAAGTAGQALAWETFATFQLALAAFATTDQVAPQGGLALGSAVAALA
+                     LAAGPFSGGSMNPARSLGPAIVTGIWDDHWVSWLGPVLCAVLAGLSYEFIFAPGASRE
+                     KLGACLACRDVALVETTSPSPSSASTRGHPAPPAERDQGTA"
+ORIGIN      
+        1 atggccatca gggaggagct gcggagctgg tgcttctggc agggggtgct ggtggaggct
+       61 gtggccacgc tcatcttcgt gggagtggtg ctgggcgcct cagtggaccc cagacccctg
+      121 gcaccagcgt tggccggggg tctggtggca ggggcgctgg tctgcaccct cagggcaccc
+      181 caggccaacc cggcgctcac cctggccctg ctctgcaccc gcaagctgag tgccctgcgt
+      241 ggggccgccg ggctcctggc acagtgcacc ggggctgtgc tggcctccgc catcgcccgc
+      301 ctggcgctgc cggatgacac cagccttgtc accagggtga gcgcagcggg gacggcggga
+      361 caagccctgg cctgggagac ctttgccacc ttccagctgg cgctggctgc ctttgccacc
+      421 accgaccagg tggcccccca gggtgggctg gctctgggca gcgctgtggc tgcccttgcc
+      481 ctggctgcgg ggccgttctc ggggggcagc atgaacccag cgcgttcgct ggggccagcc
+      541 atcgtcactg gcatctggga tgaccactgg gtgagttggc tggggccggt gctgtgtgcg
+      601 gtgctggccg ggctctccta cgagttcatc ttcgcccccg gcgcatcccg ggagaagctg
+      661 ggtgcctgcc tcgcctgccg ggacgtggca ctggtggaga ccaccagccc atccccctcc
+      721 tcagcctcca cccgcggcca cccagccccc ccggctgagc gagaccaggg cacggcctga
+//
+
+LOCUS       DQ165481                 684 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Falco peregrinus R2 cytochrome oxidase subunit II (COXII) gene,
+            complete cds; mitochondrial.
+ACCESSION   DQ165481
+VERSION     DQ165481.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Evolutionary genetics. Clonal inheritance of avian mitochondrial
+            DNA
+  JOURNAL   Nature 413 (6851), 37-38 (2001)
+   PUBMED   11544517
+REFERENCE   2  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2005) Evolutionary Biology, Uppsala University,
+            Norbyvagen 18D, Uppsala 75236, Sweden
+FEATURES             Location/Qualifiers
+     source          1..684
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="R2"
+                     /db_xref="taxon:8954"
+     gene            1..>684
+                     /gene="COXII"
+     CDS             1..684
+                     /gene="COXII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit II"
+                     /protein_id="AAZ76859.1"
+                     /translation="MANQSQLGFQDASSPIMEELVEFHDHALMVALAICSLVLYLLTL
+                     MLAEKLSSNTVDAQEVELIWTILPAIVLILLALPSLQILYMMDEIDEPDLTLKAIGHQ
+                     WYWAYEYTDFKDLTFDSYMIPTTELPSGHFRLLEVDHRIVIPMESPIRIIITANDVLH
+                     SWAVPSLGVKTDAIPGRLNQTSFITTRPGVFYGQCSEICGANHSYMPIVVESTPLTHF
+                     EHWSTLLSS"
+ORIGIN      
+        1 atggccaacc aatcccaact cggatttcaa gatgcctcct caccaatcat ggaagagctc
+       61 gtagaatttc acgaccacgc attaatggtt gcacttgcaa tctgtagcct ggtcctatac
+      121 ctactgacac ttatgctagc agaaaaacta tcctccaaca ctgtagatgc acaagaagta
+      181 gaacttatct gaacgatcct accagccatc gtcctcatcc tacttgccct accatccctg
+      241 caaatcctat atataataga cgaaattgat gaacccgatt taactttaaa agccatcgga
+      301 caccaatgat attgagctta cgaatataca gacttcaaag acctgacatt cgactcctat
+      361 ataatcccaa ccacagagct cccctcagga cactttcgac tactggaagt agaccatcgt
+      421 attgtaatcc cgatggaatc cccaattcgc atcatcatca ccgccaacga cgtactccac
+      481 tcatgagccg tcccctccct aggggtaaaa actgatgcaa ttccaggacg actcaaccaa
+      541 acatccttca tcacaactcg accaggcgtt ttctacggcc aatgctcaga aatctgtgga
+      601 gccaatcaca gctacatacc aatcgtagta gaatcaaccc ccctaaccca tttcgaacac
+      661 tgatccacac tcctatcatc ctaa
+//
+
+LOCUS       DQ165480                 684 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Falco peregrinus OK67 cytochrome oxidase subunit II (COXII) gene,
+            complete cds; mitochondrial.
+ACCESSION   DQ165480
+VERSION     DQ165480.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Evolutionary genetics. Clonal inheritance of avian mitochondrial
+            DNA
+  JOURNAL   Nature 413 (6851), 37-38 (2001)
+   PUBMED   11544517
+REFERENCE   2  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2005) Evolutionary Biology, Uppsala University,
+            Norbyvagen 18D, Uppsala 75236, Sweden
+FEATURES             Location/Qualifiers
+     source          1..684
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OK67"
+                     /db_xref="taxon:8954"
+     gene            1..>684
+                     /gene="COXII"
+     CDS             1..684
+                     /gene="COXII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit II"
+                     /protein_id="AAZ76858.1"
+                     /translation="MANQSQLGFQDASSPIMEELVEFHDHALMVALAICSLVLYLLTL
+                     MLAEKLSSNTVDAQEVELIWTILPAIVLILLALPSLQILYMMDEIDEPDLTLKAIGHQ
+                     WYWAYEYTDFKDLTFDSYMIPTTELPSGHFRLLEVDHRIVIPMESPIRIIITANDVLH
+                     SWAVPSLGVKTDAIPGRLNQTSFITTRPGVFYGQCSEICGANHSYMPIVVESTPLTHF
+                     EHWSTLLSS"
+ORIGIN      
+        1 atggccaacc aatcccaact cggatttcaa gatgcctcct caccaatcat ggaagagctc
+       61 gtagaatttc acgaccacgc attaatggtt gcacttgcaa tctgtagcct ggtcctatac
+      121 ctactgacac ttatgctagc agaaaaacta tcctccaaca ctgtagatgc acaagaagta
+      181 gaacttatct gaacgatcct accagccatc gtcctcatcc tacttgccct accatccctg
+      241 caaatcctat atataataga cgaaattgat gaacccgatt taactttaaa agccatcgga
+      301 caccaatgat attgagctta cgaatataca gacttcaaag acctgacatt cgactcctat
+      361 ataatcccaa ccacagagct cccctcagga cactttcgac tactggaagt agaccatcgt
+      421 attgtaatcc cgatggaatc cccaattcgc atcatcatca ccgccaacga cgtactccac
+      481 tcatgagccg tcccctccct aggggtaaaa actgatgcaa ttccaggacg actcaaccaa
+      541 acatccttca tcacaactcg accaggcgtt ttctacggcc aatgctcaga aatctgtgga
+      601 gccaatcaca gctacatacc aatcgtagta gaatcaaccc ccctaaccca tttcgaacac
+      661 tgatccacac tcctgtcatc ctaa
+//
+
+LOCUS       FPU83307                1143 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Falco peregrinus cytochrome b (cytb) gene, mitochondrial gene
+            encoding mitochondrial protein, complete cds.
+ACCESSION   U83307
+VERSION     U83307.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 1143)
+  AUTHORS   Griffiths,C.S.
+  TITLE     Correlation of functional domains and rates of nucleotide
+            substitution in cytochrome b
+  JOURNAL   Mol. Phylogenet. Evol. 7 (3), 352-365 (1997)
+   PUBMED   9187094
+REFERENCE   2  (bases 1 to 1143)
+  AUTHORS   Griffiths,C.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-1996) Ornithology, American Museum of Natural
+            History, Central Park West at 79th St., New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..1143
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8954"
+     gene            1..1143
+                     /gene="cytb"
+     CDS             1..1143
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAC60233.1"
+                     /translation="MAPNIRKSHPLVKMINNSLIDLPTPPNISIWWNFGSLLGICLAT
+                     QILTGLLLAMHYTADTTLAFSSVAHTCRNVQYGWLIRNLHANGASLFFICIYMHIGRG
+                     IYYGSYLYKETWNTGIILLLTLMATAFVGYVLPWGQMSFWGATVITNLFSAIPYIGQT
+                     LVEWAWGGFSVDNPTLTRFFALHFLLPFLIAGLTLIHLTFLHESGSNNPLGITSNCDK
+                     IPFHPYYSLKDILGFMLMYLPLMTLALFTPNLLGDPENFTPANPLVTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALAASVLILFLSPLLHKSKQRTMTFRPLSQSLFWLLVTNLL
+                     ILTWVGSQPVEHPFIIIGQLASLSYFTTLLILLPLTGALENKILNY"
+ORIGIN      
+        1 atggcaccca acattcgaaa atcacaccct ttagtaaaaa taatcaataa ctccctaatt
+       61 gaccttccca ctccacccaa catctccatt tgatgaaact ttggatccct actaggaatc
+      121 tgtctagcca cccaaatcct aactggccta ttgctagcca tacactacac agcggataca
+      181 accctagcct tttcatccgt cgcccacaca tgtcgaaacg tacaatacgg atgactaatc
+      241 cgcaacctac atgccaacgg agcatcctta ttcttcatct gtatctacat acacattggg
+      301 cgaggcattt actacggctc ttatttgtat aaagaaacct ggaatacagg catcatcctt
+      361 ctactcaccc taatagcaac agccttcgta ggctatgtac taccctgagg acaaatatca
+      421 ttctgaggag ccacagtcat taccaaccta ttctcagcaa tcccatacat cggccaaacc
+      481 ctagtcgaat gggcttgagg gggattttca gtagacaacc caacactgac ccgattcttc
+      541 gccctacact tcctacttcc attcctaatc gcaggactca ccctaatcca cctcaccttc
+      601 ctacatgaat caggctcaaa taacccccta ggaatcacat caaattgcga caaaatccca
+      661 ttccacccat actactctct caaagacatc ctaggattta tactcatata cctgccccta
+      721 ataaccctag ccctatttac cccaaacctg ctaggagacc cagaaaactt tacaccagca
+      781 aatcccctag tcaccccccc acacatcaaa ccagaatgat acttcctatt tgcttacgcc
+      841 atcctacgct caatccccaa taaactgggc ggagtcctag cactagccgc ctcagtacta
+      901 atcttattcc tgagcccact actccacaaa tccaaacaac gcacaataac cttccgccct
+      961 ctatcccagt cactattctg acttctagtc accaacctac tcatcctaac ctgagtagga
+     1021 agccaacccg ttgagcaccc gttcatcatc attggccaac tagcttcact ctcctacttc
+     1081 acaacccttc taatcctcct cccccttacc ggggccctag aaaacaaaat cctaaactac
+     1141 taa
+//
+
+LOCUS       KR269733                 810 bp    mRNA    linear   VRT 04-JUL-2015
+DEFINITION  Falco peregrinus clone B opioid receptor Kappa 1 isoform B (OPRK1)
+            mRNA, complete cds, alternatively spliced.
+ACCESSION   KR269733
+VERSION     KR269733.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Opioid receptor gene expression in the Peregrine Falcon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2015) Veterinary Biomedicine, Faculty of
+            Veterinary Medicine, 3200 Sicotte, St-Hyacinthe, Quebec J2S 7C6,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..810
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /specimen_voucher="AD.7.13"
+                     /db_xref="taxon:8954"
+                     /clone="B"
+                     /geo_loc_name="Canada: Quebec"
+     gene            1..810
+                     /gene="OPRK1"
+     CDS             7..648
+                     /gene="OPRK1"
+                     /note="alternatively spliced"
+                     /codon_start=1
+                     /product="opioid receptor Kappa 1 isoform B"
+                     /protein_id="AKN79680.1"
+                     /translation="MDAPVQIFREETESTCSPVPCRAPSTSGSWLLGWVDYDSNATGA
+                     FGGTQHNHTSISPAIPIIITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNL
+                     AMADALVTTTMPFQSTEYLMNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIA
+                     VCHPVKALDFRTPLKAKIINICIWLLSSSVGISAIVLGGTKVREAISENLKAW"
+ORIGIN      
+        1 gtccctatgg atgccccggt acagattttc cgggaggaga cagaatccac ctgctccccg
+       61 gtgccctgtc gtgcccccag caccagcggc agctggctcc tgggctgggt ggactacgac
+      121 agcaatgcca ccggggcctt cggtggcacc cagcacaacc acaccagcat ctcccctgcc
+      181 atccccatca tcatcactgc tgtctactcg gtggtcttcg ttgttggttt ggtgggaaat
+      241 tctctggtca tgtttgtcat cataagatac acaaagatga agacagcaac caacatctac
+      301 attttcaatc tggctatggc agatgcacta gttaccacga ctatgccttt ccaaagcact
+      361 gagtacctga tgaactcttg gccctttggt gatgtgctct gtaaaatagt tatttcaatt
+      421 gactattata acatgtttac cagcatattc acactgacca tgatgagtgt tgatcgatac
+      481 attgccgtgt gtcaccctgt gaaggctctg gacttccgta cacctctcaa ggcgaagata
+      541 atcaacatct gtatctggct attgtcctca tctgttggta tatctgcaat agttcttgga
+      601 ggtaccaaag tcagggaagc catttcagag aacttgaagg catggtgaac aaaggaaaag
+      661 tctggagaaa gaaaatcaag ctaaatgata catgcatgac tgcaatgcag gagcacctca
+      721 gtgtcttcaa aaggtttgaa tcctctaatg atgtccttgg gttggggcca tcttgttaat
+      781 ggatggctca ataaaataca agacaagcat
+//
+
